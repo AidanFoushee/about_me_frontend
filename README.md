@@ -1,3 +1,6 @@
+# Overview
+This is the frontend half of my personal project, the backend can be found here: [about_me_backend GitHub Repo](https://github.com/AidanFoushee/about_me_backend)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
