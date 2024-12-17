@@ -1,0 +1,21 @@
+.app {
+  /* min-height: 200vh; */
+  text-align: center;
+}
+
+.profile-picture {
+  cursor: pointer;
+  width: 15%;
+  margin: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  transition: transform 0.2s;
+}
+
+.profile-picture:hover {
+  transform: scale(1.1);
+}
+
+.info {
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
